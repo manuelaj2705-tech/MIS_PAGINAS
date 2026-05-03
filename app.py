@@ -90,7 +90,7 @@ apps = [
     {
         "title": "Chat PDF",
         "url": "https://chatpdf-gzyhln5gmzeasufhkymsrf.streamlit.app/",
-        "img": "img/chat_pdf.jpg",
+        "img": "Chatbot.png",
         "desc": "Carga un PDF y hazle preguntas directamente usando un modelo de lenguaje (RAG).",
         "label": "Chat PDF",
     },
