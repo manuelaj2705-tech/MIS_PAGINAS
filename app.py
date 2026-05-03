@@ -97,7 +97,7 @@ apps = [
     {
         "title": "Tablero",
         "url": "https://mitablero-37pgfbi27dcveobqybialg.streamlit.app/",
-        "img": "img/tablero.jpg",
+        "img": "Tablero.png",
         "desc": "Dashboard interactivo con gráficas y métricas en tiempo real para toma de decisiones.",
         "label": "Tablero",
     },
