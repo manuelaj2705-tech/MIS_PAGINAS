@@ -83,7 +83,7 @@ apps = [
     {
         "title": "Vision App",
         "url": "https://visionapp-kprcq5qyohmk25tfgvbqcc.streamlit.app/",
-        "img": "img/vision_app.jpg",
+        "img": "vision_app.jpg.png",
         "desc": "Analiza imágenes en tiempo real usando visión por computadora e inteligencia artificial.",
         "label": "Vision App",
     },
