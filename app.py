@@ -103,7 +103,7 @@ apps = [
     },
     {
         "title": "Reconocimiento Inteligente",
-        "url": "https://drawrecog-ockrdwtjmzjkrfmszxkeuk.streamlit.app/",
+        "url": "Corazon.png",
         "img": "img/draw_recog.jpg",
         "desc": "Reconoce dibujos trazados a mano usando modelos de clasificación con IA.",
         "label": "Inteligente",
